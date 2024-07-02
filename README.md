@@ -4,7 +4,7 @@
 Welcome to my Python Programs repository! I'm embarking on a 100-days learning challenge to improve and sharpen my coding skills. 
 By starting with Python, I aim to build a strong foundation in programming through consistent practice and project-based learning.
 
-**Goals** 
+### **Goals** 
 Through this challenge, I aspire to:
 ***
 1. Gain proficiency in Python programming fundamentals.
