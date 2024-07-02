@@ -1,4 +1,3 @@
-The background color is `#f5f5dc` for light mode and `#36454f` for dark mode.
 <h1 align="center">
   🎯100-DAYS LEARNING CHALLENGE!🚀
 </h1>
