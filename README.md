@@ -7,7 +7,7 @@ By starting with Python, I aim to build a strong foundation in programming throu
 
 #**Goals** 
 Through this challenge, I aspire to:
-<p align="right">
+<p align="bulletin">
 *Gain proficiency in Python programming fundamentals.
 *Explore advanced concepts and best practices.
 *Apply Python to solve real-world problems and contribute to meaningful projects.
