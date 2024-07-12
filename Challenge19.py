@@ -52,4 +52,4 @@ elif selection == '5':
 elif selection == '6':
     print(n1, "**", n2, "=", power(n1, n2))
 else:
-    print("Invalid input!"
+    print("Invalid input!")
