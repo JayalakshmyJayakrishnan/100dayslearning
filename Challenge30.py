@@ -4,7 +4,7 @@ if __name__ == '__main__':
     z = int(input())
     n = int(input())
     result = [
-        [i,j,k]
+        [i,j,k] 
         for i in range(0,x+1)
         for j in range(0,y+1)
         for k in range(0,z+1)
