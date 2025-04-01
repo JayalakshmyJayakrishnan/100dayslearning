@@ -10,7 +10,7 @@ updated_sent = replace_words(sent,o,n)
 
 print("The updated sentence: ", updated_sent)
 
-Enter a sentence: Privacy Shutter in Webcam
-Enter the word to be replaced: in
-Enter the new word: on
-The updated sentence:  Privacy Shutter on Webcam
+# Enter a sentence: Privacy Shutter in Webcam
+# Enter the word to be replaced: in
+# Enter the new word: on
+# The updated sentence:  Privacy Shutter on Webcam
